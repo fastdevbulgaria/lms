@@ -1,0 +1,1 @@
+var countries={BG:"Bulgaria",ZZ:"Unknown or Invalid Region"}
